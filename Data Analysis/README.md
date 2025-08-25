@@ -345,21 +345,3 @@ df['dayofweek'] = df.index.dayofweek
 
 ---
 
-## Quick folder / file suggestions for your repo
-
-```
-sprint-01-python-basics/
-  README.md
-  examples.py
-sprint-02-numpy/
-  cheatsheet.md
-  numpy_examples.ipynb
-sprint-03-pandas/
-  cheatsheet.md
-  pandas_examples.ipynb
-sprint-04-project/
-  dataset.csv
-  analysis.ipynb
-```
-
----
