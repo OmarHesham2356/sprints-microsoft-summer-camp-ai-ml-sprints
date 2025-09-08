@@ -1,0 +1,4 @@
+# Ignore venv in Data Visualization
+Data Visualization/venv/
+Data Visualization/.ipynb_checkpoints/
+Data Visualization/ Matplotlib Advanced/.ipynb_checkpoints
